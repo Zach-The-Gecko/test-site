@@ -1,0 +1,7 @@
+crawl-delay: 1
+
+
+User-agent: *
+
+Disallow: /do-not-go-here
+Disallow: /also-do-not-go-here
